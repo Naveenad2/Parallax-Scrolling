@@ -1,0 +1,15 @@
+body, html {
+    margin: 0;
+    padding: 0;
+   
+}
+
+.parallax {
+    background-image: url('https://www.shutterstock.com/image-photo/panorama-beautiful-countryside-romania-sunny-260nw-1302294157.jpg');
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
